@@ -1,6 +1,8 @@
 <h1 align="center"> Awesome LLM-based Multi-Agents Papers </h1>
 
-![avatar](image.png)
+<div  align="center">    
+ <img src="./image.png" width = "300" height = "300" alt="image" align=center />
+</div>
 
 
 # News
