@@ -19,6 +19,25 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Table of Content (ToC)
 
+- [Multi-Agents Framework](#multi-agents-framework)
+- [Multi-Agents for Problem Solving](#multi-agents-for-problem-solving)
+  * [Software development](#software-development)
+  * [Embodied Agents](#embodied-agents)
+  * [Science Team for Experiment Operations](#science-team-for-experiment-operations)
+  * [Science Debate](#science-debate)
+- [Multi-Agents for World Simulation](#multi-agents-for-world-simulation)
+  * [Society](#society)
+  * [Game](#game)
+  * [Psychology](#psychology)
+  * [Economy](#economy)
+  * [Recommender System](#recommender-system)
+  * [Policy Making](#policy-making)
+  * [Disease propagation Simulation](#disease-propagation-simulation)
+- [Multi-Agents Datasets and Benchmarks](#multi-agents-datasets-and-benchmarks)
+- [Multi-Agents Orchestration and Efficiency](#multi-agents-orchestration-and-efficiency)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 
 
 # Multi-Agents Framework
