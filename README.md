@@ -10,6 +10,7 @@
 
 # 🔥Our Survey Paper
 Our survey about LLM based Multi-Agents is available at arxiv: !.
+
 The following is an overview table and more details can be seen in our paper. Very appreciate for any suggestions! 
 
 <div  align="center">    
