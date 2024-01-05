@@ -1,15 +1,24 @@
-<h1 align="center"> Awesome LLM-based Multi-Agents Papers </h1>
+<h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
+
+<p align="center">
+  📃 <a href="" target="_blank">Paper</a> </a><br>
+</p>
 
 <div  align="center">    
- <img src="./image.png" width = "300" height = "300" alt="image" align=center />
+ <img src="./trend.png" width = "300" height = "300" alt="image" align=center />
 </div>
 
-# Our Survey Paper
-We 
+# 🔥Our Survey Paper
+Our survey about LLM based Multi-Agents is available at arxiv: . Very appreciate for any suggestions! 
 
-# News
+<div  align="center">    
+ <img src="./overview.png" width = "300" height = "300" alt="image" align=center />
+</div>
 
-[2024/01] This repo is created to LLM-based Multi-Agents papers. We categorized these papers into five main streams:
+
+# 🆕 News
+
+[2024/01] This repo is created to maintain LLM based Multi-Agents papers. We categorized these papers into five main streams:
 - Multi-Agents Framework
 - Multi-Agents Orchestration and Efficiency
 - Multi-Agents for Problem Solving
@@ -21,9 +30,10 @@ Should you find value in our paper and this repository, we would be most gratefu
  -->
 
 
-# Table of Content (ToC)
+# 📌 Table of Content (ToC)
 
 - [Multi-Agents Framework](#multi-agents-framework)
+- [Multi-Agents Orchestration and Efficiency](#multi-agents-orchestration-and-efficiency)
 - [Multi-Agents for Problem Solving](#multi-agents-for-problem-solving)
   * [Software development](#software-development)
   * [Embodied Agents](#embodied-agents)
@@ -38,7 +48,6 @@ Should you find value in our paper and this repository, we would be most gratefu
   * [Policy Making](#policy-making)
   * [Disease propagation Simulation](#disease-propagation-simulation)
 - [Multi-Agents Datasets and Benchmarks](#multi-agents-datasets-and-benchmarks)
-- [Multi-Agents Orchestration and Efficiency](#multi-agents-orchestration-and-efficiency)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -62,8 +71,17 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/03\] CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society. Guohao Li et al. [\[paper\]](https://arxiv.org/abs/2303.17760)
 
+# Multi-Agents Orchestration and Efficiency
 
+\[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
 
+\[2023/10\] Adapting LLM Agents Through Communication. Kuan Wang et al. [\[paper\]](https://arxiv.org/abs/2310.01444)
+
+\[2023/08\] ProAgent: Building Proactive Cooperative AI with Large Language Models. Ceyao Zhang et al. [\[paper\]](https://arxiv.org/abs/2308.11339)
+
+\[2023/07\] Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems. Nathalia Nascimento et al. [\[paper\]](https://arxiv.org/abs/2307.06187)
+
+\[2023/07\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. Zhenhailong Wang et al. [\[paper\]](https://arxiv.org/abs/2307.05300)
 
 
 # Multi-Agents for Problem Solving 
@@ -212,18 +230,6 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2023/10\] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. Xuhui Zhou et al. [\[paper\]](https://arxiv.org/abs/2310.11667)
 
 \[2023/10\] Evaluating Multi-Agent Coordination Abilities in Large Language Models. Saaket Agashe et al. [\[paper\]](https://arxiv.org/abs/2310.03903)
-
-# Multi-Agents Orchestration and Efficiency
-
-\[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
-
-\[2023/10\] Adapting LLM Agents Through Communication. Kuan Wang et al. [\[paper\]](https://arxiv.org/abs/2310.01444)
-
-\[2023/08\] ProAgent: Building Proactive Cooperative AI with Large Language Models. Ceyao Zhang et al. [\[paper\]](https://arxiv.org/abs/2308.11339)
-
-\[2023/07\] Self-Adaptive Large Language Model (LLM)-Based Multiagent Systems. Nathalia Nascimento et al. [\[paper\]](https://arxiv.org/abs/2307.06187)
-
-\[2023/07\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. Zhenhailong Wang et al. [\[paper\]](https://arxiv.org/abs/2307.05300)
 
 
 # Contributing
