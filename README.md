@@ -1,5 +1,8 @@
 <h1 align="center"> Awesome LLM-based Multi-Agents Papers </h1>
 
+![avatar](image.png)
+
+
 # News
 
 [2024/01] This repo is created to LLM-based Multi-Agents papers. We categorized these papers into five main streams:
