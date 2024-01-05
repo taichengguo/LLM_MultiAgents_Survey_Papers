@@ -9,10 +9,11 @@
 </div>
 
 # 🔥Our Survey Paper
-Our survey about LLM based Multi-Agents is available at arxiv: . Very appreciate for any suggestions! 
+Our survey about LLM based Multi-Agents is available at arxiv: !.
+The following is an overview table and more details can be seen in our paper. Very appreciate for any suggestions! 
 
 <div  align="center">    
- <img src="./overview.png" width = "300" height = "300" alt="image" align=center />
+ <img src="./overview.png" width = "1200" height = "900" alt="image" align=center />
 </div>
 
 
