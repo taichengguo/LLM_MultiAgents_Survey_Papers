@@ -202,6 +202,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/09\] TradingGPT: Multi-Agent System with Layered Memory and Distinct Characters for Enhanced Financial Trading Performance. Yang Li et al. [\[paper\]](https://arxiv.org/abs/2309.03736)
 
+\[2023/01\] Large Language Models as Simulated Economic Agents: What Can We Learn from Homo Silicus?. John J. Horton et al. [\[paper\]](https://arxiv.org/abs/2301.07543)
+
 
 ## Recommender System
 
