@@ -159,6 +159,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/12\] Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis. Caoyun Fan et al. [\[paper\]](https://arxiv.org/abs/2312.05488)
 
+\[2023/11\] ALYMPICS: Language Agents Meet Game Theory. Shaoguang Mao et al. [\[paper\]](https://arxiv.org/abs/2311.03220v2)
+
 \[2023/10\] Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game. Zelai Xu et al. [\[paper\]](https://arxiv.org/abs/2310.18940)
 
 \[2023/10\] Theory of Mind for Multi-Agent Collaboration via Large Language Models. Huao Li et al. [\[paper\]](https://arxiv.org/abs/2310.10701)
