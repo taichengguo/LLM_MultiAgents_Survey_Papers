@@ -82,7 +82,7 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Orchestration and Efficiency
 
-\[2023/11\] https://github.com/joaomdmoura/crewAI.
+\[2023/11\] crewAI. joaomdmoura et al. [\[paper\]](https://github.com/joaomdmoura/crewAI) 
 
 \[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
 
