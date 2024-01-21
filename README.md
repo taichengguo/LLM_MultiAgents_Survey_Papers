@@ -1,7 +1,7 @@
 <h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
 
 <p align="center" style="font-size: 100px;">
-  📃 <a href="" target="_blank">Paper</a> </a><br>
+  🔥 <a href="" target="_blank">Paper</a> </a> 🔥 <br>
 </p>
 
 <div  align="center">    
@@ -11,11 +11,14 @@
 # 🔥Our Survey Paper
 Our survey about LLM based Multi-Agents is available at arxiv: !.
 
-The following are our summarized LLM-based Multi-Agents architecture and an overview table. More details can be seen in our paper. Very appreciate any suggestions! 
-
+Our summarized LLM-based Multi-Agents architecture is: 
 <div  align="center">    
  <img src="./LLM-MA.png" width = "600" height = "400" alt="image" align=center />
 </div>
+
+
+The Overview table is as follows. More details can be seen in our paper. Very appreciate any suggestions! 
+
 
 <div  align="center">    
  <img src="./overview.png" width = "1200" height = "900" alt="image" align=center />
