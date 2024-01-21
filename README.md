@@ -11,7 +11,11 @@
 # 🔥Our Survey Paper
 Our survey about LLM based Multi-Agents is available at arxiv: !.
 
-The following is an overview table and more details can be seen in our paper. Very appreciate for any suggestions! 
+The following are our summarized LLM-based Multi-Agents architecture and an overview table. More details can be seen in our paper. Very appreciate any suggestions! 
+
+<div  align="center">    
+ <img src="./LLM-MA.png" width = "600" height = "400" alt="image" align=center />
+</div>
 
 <div  align="center">    
  <img src="./overview.png" width = "1200" height = "900" alt="image" align=center />
