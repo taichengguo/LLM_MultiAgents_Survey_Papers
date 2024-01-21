@@ -1,6 +1,6 @@
 <h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
 
-<p align="center">
+<p align="center" style="font-size: 100px;">
   📃 <a href="" target="_blank">Paper</a> </a><br>
 </p>
 
