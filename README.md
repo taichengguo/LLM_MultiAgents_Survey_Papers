@@ -16,8 +16,9 @@ Our summarized LLM-based Multi-Agents architecture is:
  <img src="./LLM-MA.png" width = "600" height = "400" alt="image" align=center />
 </div>
 
+<br>
 
-The Overview table is as follows. More details can be seen in our paper. Very appreciate any suggestions! 
+The Overview table is as follows. More details can be seen in our paper. Very appreciate any suggestions.
 
 
 <div  align="center">    
@@ -82,7 +83,7 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Orchestration and Efficiency
 
-\[2023/11\] crewAI. joaomdmoura et al. [\[paper\]](https://github.com/joaomdmoura/crewAI) 
+\[2023/11\] crewAI. joaomdmoura et al. [\[repo\]](https://github.com/joaomdmoura/crewAI) 
 
 \[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
 
