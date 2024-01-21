@@ -5,7 +5,7 @@
 </p>
 
 <div  align="center">    
- <img src="./trend.png" width = "600" height = "400" alt="image" align=center />
+ <img src="./trend.png" width = "700" height = "500" alt="image" align=center />
 </div>
 
 # 🔥Our Survey Paper
