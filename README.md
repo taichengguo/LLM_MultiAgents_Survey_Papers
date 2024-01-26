@@ -1,7 +1,7 @@
 <h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
 
 <p align="center" style="font-size: 100px;">
-  🔥 <a href="" target="_blank">Paper</a> </a> 🔥 <br>
+  🔥 <a href="https://www.researchgate.net/publication/377723187_Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges" target="_blank">Paper</a> </a> 🔥 <br>
 </p>
 
 <div  align="center">    
@@ -9,7 +9,7 @@
 </div>
 
 # 🔥Our Survey Paper
-Our survey about LLM based Multi-Agents is available at arxiv: !.
+Our survey about LLM based Multi-Agents is available at: https://www.researchgate.net/publication/377723187_Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.
 
 Our summarized LLM-based Multi-Agents architecture is: 
 <div  align="center">    
