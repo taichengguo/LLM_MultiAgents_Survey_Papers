@@ -9,7 +9,7 @@
 </div>
 
 # 🔥Our Survey Paper
-Our survey about LLM based Multi-Agents is available at: https://www.researchgate.net/publication/377723187_Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.
+Our survey about LLM based Multi-Agents is still on-hold at Arxiv. Hence, we first made our paper available at: https://www.researchgate.net/publication/377723187_Large_Language_Model_based_Multi-Agents_A_Survey_of_Progress_and_Challenges.
 
 Our summarized LLM-based Multi-Agents architecture is: 
 <div  align="center">    
