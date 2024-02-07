@@ -9,7 +9,7 @@
 </div>
 
 # 🔥Our Survey Paper
-Our survey about LLM based Multi-Agents is available at: https://arxiv.org/abs/2402.01680.
+Our survey about LLM based Multi-Agents is available at: https://arxiv.org/abs/2402.01680
 
 Our summarized LLM-based Multi-Agents architecture is: 
 <div  align="center">    
