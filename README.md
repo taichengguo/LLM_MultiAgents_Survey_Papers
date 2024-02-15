@@ -1,4 +1,4 @@
-<h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
+![image](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers/assets/92975748/7e8480c2-c5de-4dc1-bba3-1c4029fe9632)<h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
 
 <p align="center" style="font-size: 100px;">
   🔥 <a href="https://arxiv.org/abs/2402.01680" target="_blank">Paper</a> </a> 🔥 <br>
@@ -95,9 +95,16 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/07\] Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. Zhenhailong Wang et al. [\[paper\]](https://arxiv.org/abs/2307.05300)
 
+\[2023/05\] Encouraging Divergent Thinking in Large Language Models through Multi-Agent Debate. Tian Liang et al. [\[paper\]](https://arxiv.org/abs/2305.19118)
+
+
 
 # Multi-Agents for Problem Solving 
 ## Software development
+
+\[2024/01\] XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model. Zhitao Wang et al. [\[paper\]](https://arxiv.org/abs/2401.02705)
+
+\[2024/02\] Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis. Zeeshan Rasheed et al. [\[paper\]](https://arxiv.org/abs/2402.01386)
 
 \[2023/12\] AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation. Dong Huang et al. [\[paper\]](https://arxiv.org/abs/2312.13010)
 
@@ -138,6 +145,10 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Science Debate
 
+\[2024/01\] Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias. Yu He Ke et al. [\[paper\]](https://arxiv.org/abs/2401.14589)
+
+\[2023/11\] MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge. Bo Ni et al. [\[paper\]](https://arxiv.org/abs/2311.08166)
+
 \[2023/11\] MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning. Xiangru Tang et al. [\[paper\]](https://arxiv.org/abs/2311.10537)
 
 \[2023/08\] ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate. Chi-Min Chan et al. [\[paper\]](https://arxiv.org/abs/2308.07201)
@@ -149,6 +160,9 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents for World Simulation
 ## Society
+
+
+\[2023/12\] Large Language Model Enhanced Multi-Agent Systems for 6G Communications. Feibo Jiang et al. [\[paper\]](https://arxiv.org/abs/2312.07850)
 
 \[2023/10\] Multi-Agent Consensus Seeking via Large Language Models. Huaben Chen et al. [\[paper\]](https://arxiv.org/abs/2310.20151)
 
@@ -226,10 +240,13 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 ## Policy Making
+
 \[2023/11\] War and Peace (WarAgent): Large Language Model-based Multi-Agent Simulation of World Wars. Wenyue Hua et al. [\[paper\]](https://arxiv.org/abs/2311.17227)
 
 
 \[2023/11\] Simulating Public Administration Crisis: A Novel Generative Agent-Based Simulation System to Lower Technology Barriers in Social Science Research. Bushi Xiao et al. [\[paper\]](https://arxiv.org/abs/2311.06957)
+
+\[2023/10\] Multi-Agent Consensus Seeking via Large Language Models. Huaben Chen et al. [\[paper\]](https://arxiv.org/abs/2310.20151)
 
 
 \[2023/09\] Generative Agent-Based Modeling: Unveiling Social System Dynamics through Coupling Mechanistic Models with Generative Artificial Intelligence. Navid Ghaffarzadegan et al. [\[paper\]](https://arxiv.org/abs/2309.11456)
@@ -243,6 +260,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 # Multi-Agents Datasets and Benchmarks
+
+\[2023/11\] Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration. Zhenran Xu et al. [\[paper\]](https://arxiv.org/abs/2311.08152)
 
 \[2023/11\] MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration. Lin Xu et al. [\[paper\]](https://arxiv.org/abs/2311.08562)
 
