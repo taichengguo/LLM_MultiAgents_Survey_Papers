@@ -126,6 +126,9 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 ## Science Team for Experiment Operations
+
+\[2024/01\] ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning. A. Ghafarollahi et al. [\[paper\]](https://arxiv.org/abs/2402.04268)
+
 \[2023/11\] ChatGPT Research Group for Optimizing the Crystallinity of MOFs and COFs. Zhiling Zheng et al. [\[paper\]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10683477/)
 
 \[2023/04\] ChemCrow: Augmenting large-language models with chemistry tools. Andres M Bran et al. [\[paper\]](https://arxiv.org/abs/2304.05376)
