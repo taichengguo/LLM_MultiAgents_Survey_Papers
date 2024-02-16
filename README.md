@@ -28,7 +28,9 @@ The Overview table is as follows. More details can be seen in our paper. Very ap
 
 # 🆕 News
 
-[2024/01] This repo is created to maintain LLM based Multi-Agents papers. We categorized these papers into five main streams:
+[2024/02] We will update our paper list every two weeks and include all the following papers in the next version of our paper. Please Feel free to contact me in case we have missed any papers!
+
+[2024/01] This repo is created to maintain LLM-based Multi-Agents papers. We categorized these papers into five main streams:
 - Multi-Agents Framework
 - Multi-Agents Orchestration and Efficiency
 - Multi-Agents for Problem Solving
