@@ -1,4 +1,4 @@
-![image](https://github.com/taichengguo/LLM_MultiAgents_Survey_Papers/assets/92975748/7e8480c2-c5de-4dc1-bba3-1c4029fe9632)<h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
+<h1 align="center"> 🤖 Awesome LLM-based Multi-Agents Papers </h1>
 
 <p align="center" style="font-size: 100px;">
   🔥 <a href="https://arxiv.org/abs/2402.01680" target="_blank">Paper</a> </a> 🔥 <br>
