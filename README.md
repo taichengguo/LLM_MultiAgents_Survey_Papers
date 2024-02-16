@@ -85,6 +85,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Orchestration and Efficiency
 
+\[2024/02\] More Agents Is All You Need. Junyou Li et al. [\[paper\]](https://arxiv.org/abs/2402.05120)
+
 \[2023/11\] crewAI. joaomdmoura et al. [\[repo\]](https://github.com/joaomdmoura/crewAI) 
 
 \[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
@@ -270,6 +272,9 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2023/10\] SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents. Xuhui Zhou et al. [\[paper\]](https://arxiv.org/abs/2310.11667)
 
 \[2023/10\] Evaluating Multi-Agent Coordination Abilities in Large Language Models. Saaket Agashe et al. [\[paper\]](https://arxiv.org/abs/2310.03903)
+
+\[2023/09\] LLM-Deliberation: Evaluating LLMs with Interactive Multi-Agent Negotiation Games. Sahar Abdelnabi et al. [\[paper\]](https://arxiv.org/abs/2309.17234)
+
 
 
 # Contributing
