@@ -112,6 +112,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/12\] AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation. Dong Huang et al. [\[paper\]](https://arxiv.org/abs/2312.13010)
 
+\[2023/08\] LLM As DBA.  et al. [\[paper\]](https://arxiv.org/abs/2308.05481)
+
 \[2023/08\] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. Sirui Hong et al. [\[paper\]](https://arxiv.org/abs/2308.00352)
 
 \[2023/07\] Communicative agents for software development. Chen Qian et al. [\[paper\]](https://arxiv.org/abs/2307.07924)
