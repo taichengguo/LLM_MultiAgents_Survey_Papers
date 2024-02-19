@@ -51,6 +51,7 @@ Should you find value in our paper and this repository, we would be most gratefu
   * [Embodied Agents](#embodied-agents)
   * [Science Team for Experiment Operations](#science-team-for-experiment-operations)
   * [Science Debate](#science-debate)
+  * [Database](#database)
 - [Multi-Agents for World Simulation](#multi-agents-for-world-simulation)
   * [Society](#society)
   * [Game](#game)
@@ -112,10 +113,6 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/12\] AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation. Dong Huang et al. [\[paper\]](https://arxiv.org/abs/2312.13010)
 
-\[2023/12\] D-Bot: Database Diagnosis System using Large Language Models.  et al. [\[paper\]](https://arxiv.org/abs/2312.01454)
-
-\[2023/08\] LLM As DBA.  et al. [\[paper\]](https://arxiv.org/abs/2308.05481)
-
 \[2023/08\] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. Sirui Hong et al. [\[paper\]](https://arxiv.org/abs/2308.00352)
 
 \[2023/07\] Communicative agents for software development. Chen Qian et al. [\[paper\]](https://arxiv.org/abs/2307.07924)
@@ -164,6 +161,13 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2023/05\] Improving Factuality and Reasoning in Language Models through Multiagent Debate. Yilun Du et al. [\[paper\]](https://arxiv.org/abs/2305.14325)
 
 \[2023/05\] Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate. Kai Xiong et al. [\[paper\]](https://arxiv.org/abs/2305.11595)
+
+
+## Database
+
+\[2023/12\] D-Bot: Database Diagnosis System using Large Language Models.  et al. [\[paper\]](https://arxiv.org/abs/2312.01454)
+
+\[2023/08\] LLM As DBA.  et al. [\[paper\]](https://arxiv.org/abs/2308.05481)
 
 
 # Multi-Agents for World Simulation
