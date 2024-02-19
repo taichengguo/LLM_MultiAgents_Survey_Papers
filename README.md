@@ -106,11 +106,13 @@ Should you find value in our paper and this repository, we would be most gratefu
 # Multi-Agents for Problem Solving 
 ## Software development
 
-\[2024/01\] XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model. Zhitao Wang et al. [\[paper\]](https://arxiv.org/abs/2401.02705)
-
 \[2024/02\] Can Large Language Models Serve as Data Analysts? A Multi-Agent Assisted Approach for Qualitative Data Analysis. Zeeshan Rasheed et al. [\[paper\]](https://arxiv.org/abs/2402.01386)
 
+\[2024/01\] XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model. Zhitao Wang et al. [\[paper\]](https://arxiv.org/abs/2401.02705)
+
 \[2023/12\] AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation. Dong Huang et al. [\[paper\]](https://arxiv.org/abs/2312.13010)
+
+\[2023/12\] D-Bot: Database Diagnosis System using Large Language Models.  et al. [\[paper\]](https://arxiv.org/abs/2312.01454)
 
 \[2023/08\] LLM As DBA.  et al. [\[paper\]](https://arxiv.org/abs/2308.05481)
 
