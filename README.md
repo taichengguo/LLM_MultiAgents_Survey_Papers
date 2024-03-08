@@ -186,6 +186,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/07\] Are you in a Masquerade? Exploring the Behavior and Impact of Large Language Model Driven Social Bots in Online Social Networks. Siyu Li et al. [\[paper\]](https://arxiv.org/abs/2307.10337)
 
+\[2023/06\] User Behavior Simulation with Large Language Model based Agents. Lei Wang et al. [\[paper\]](https://arxiv.org/abs/2306.02552)
+
 \[2023/05\] Can Large Language Models Transform Computational Social Science?. Caleb Ziems et al. [\[paper\]](https://arxiv.org/abs/2305.03514)
 
 \[2023/04\] Generative Agents- Interactive Simulacra of Human Behavior. Joon Sung Park et al. [\[paper\]](https://arxiv.org/abs/2304.03442)
