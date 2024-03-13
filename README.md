@@ -67,6 +67,13 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 # Multi-Agents Framework
+\[2024/03\] Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems. Lingjiao Chen et al. [\[paper\]](https://arxiv.org/abs/2403.02419)
+
+\[2024/02\] Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?. Qineng Wang et al. [\[paper\]](https://arxiv.org/abs/2402.18272)
+
+\[2024/02\] AgentLite: A Lightweight Library for Building and Advancing Task-Oriented LLM Agent System. Zhiwei Liu et al. [\[paper\]](https://arxiv.org/abs/2402.15538)
+
+\[2023/12\] Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia. Alexander Sasha Vezhnevets et al. [\[paper\]](https://arxiv.org/abs/2312.03664)
 
 \[2023/10\] OpenAgents: An Open Platform for Language Agents in the Wild. Tianbao Xie et al. [\[paper\]](https://arxiv.org/abs/2310.10634)
 
@@ -85,6 +92,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2023/03\] CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society. Guohao Li et al. [\[paper\]](https://arxiv.org/abs/2303.17760)
 
 # Multi-Agents Orchestration and Efficiency
+
+\[2024/02\] Language Agents as Optimizable Graphs. Mingchen Zhuge et al. [\[paper\]](https://arxiv.org/abs/2402.16823)
 
 \[2024/02\] More Agents Is All You Need. Junyou Li et al. [\[paper\]](https://arxiv.org/abs/2402.05120)
 
@@ -198,6 +207,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Game
 
+\[2023/12\] Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games. Dekun Wu et al. [\[paper\]](https://arxiv.org/abs/2312.00746)
+
 \[2023/12\] Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis. Caoyun Fan et al. [\[paper\]](https://arxiv.org/abs/2312.05488)
 
 \[2023/11\] ALYMPICS: Language Agents Meet Game Theory. Shaoguang Mao et al. [\[paper\]](https://arxiv.org/abs/2311.03220v2)
@@ -274,6 +285,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 # Multi-Agents Datasets and Benchmarks
+
+\[2024/02\] LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments. Junzhe Chen et al. [\[paper\]](https://arxiv.org/abs/2402.16499)
 
 \[2023/11\] Towards Reasoning in Large Language Models via Multi-Agent Peer Review Collaboration. Zhenran Xu et al. [\[paper\]](https://arxiv.org/abs/2311.08152)
 
