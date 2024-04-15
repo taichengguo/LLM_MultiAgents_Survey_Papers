@@ -184,6 +184,7 @@ Should you find value in our paper and this repository, we would be most gratefu
 # Multi-Agents for World Simulation
 ## Society
 
+\[2024/02\] Can Large Language Model Agents Simulate Human Trust Behaviors? Chengxing Xie et al.  [\[paper\]](https://arxiv.org/abs/2402.04559)
 
 \[2023/12\] Large Language Model Enhanced Multi-Agent Systems for 6G Communications. Feibo Jiang et al. [\[paper\]](https://arxiv.org/abs/2312.07850)
 
