@@ -97,6 +97,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2024/02\] More Agents Is All You Need. Junyou Li et al. [\[paper\]](https://arxiv.org/abs/2402.05120)
 
+\[2023/11\] Controlling Large Language Model-based Agents for Large-Scale Decision-Making: An Actor-Critic Approach. Bin Zhang et al. [\[paper\]](https://arxiv.org/abs/2311.13884)
+
 \[2023/11\] crewAI. joaomdmoura et al. [\[repo\]](https://github.com/joaomdmoura/crewAI) 
 
 \[2023/10\] Dynamic LLM-Agent Network: An LLM-agent Collaboration Framework with Agent Team Optimization. Zijun Liu et al. [\[paper\]](https://arxiv.org/abs/2310.02170)
