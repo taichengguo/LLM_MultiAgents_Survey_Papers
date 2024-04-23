@@ -75,6 +75,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2023/12\] Generative agent-based modeling with actions grounded in physical, social, or digital space using Concordia. Alexander Sasha Vezhnevets et al. [\[paper\]](https://arxiv.org/abs/2312.03664)
 
+\[2023/10\] L2MAC: Large Language Model Automatic Computer for Extensive Code Generation. Samuel Holt et al. [\[paper\]](https://arxiv.org/abs/2310.02003)
+
 \[2023/10\] OpenAgents: An Open Platform for Language Agents in the Wild. Tianbao Xie et al. [\[paper\]](https://arxiv.org/abs/2310.10634)
 
 \[2023/10\] MetaAgents: Simulating Interactions of Human Behaviors for LLM-based Task-oriented Coordination via Collaborative Generative Agents. Yuan Li et al. [\[paper\]](https://arxiv.org/abs/2310.06500)
@@ -123,6 +125,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2024/01\] XUAT-Copilot: Multi-Agent Collaborative System for Automated User Acceptance Testing with Large Language Model. Zhitao Wang et al. [\[paper\]](https://arxiv.org/abs/2401.02705)
 
 \[2023/12\] AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation. Dong Huang et al. [\[paper\]](https://arxiv.org/abs/2312.13010)
+
+\[2023/10\] L2MAC: Large Language Model Automatic Computer for Extensive Code Generation. Samuel Holt et al. [\[paper\]](https://arxiv.org/abs/2310.02003)
 
 \[2023/08\] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. Sirui Hong et al. [\[paper\]](https://arxiv.org/abs/2308.00352)
 
