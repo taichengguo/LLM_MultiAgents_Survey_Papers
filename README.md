@@ -95,6 +95,10 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Orchestration and Efficiency
 
+\[2025/10\] CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards. Xiangyuan Xue et al. [\[paper\]](https://arxiv.org/abs/2510.08529)
+
+\[2025/04\] Achilles Heel of Distributed Multi-Agent Systems. [\[paper\]](https://arxiv.org/abs/2504.07461)
+
 \[2024/02\] Language Agents as Optimizable Graphs. Mingchen Zhuge et al. [\[paper\]](https://arxiv.org/abs/2402.16823)
 
 \[2024/02\] More Agents Is All You Need. Junyou Li et al. [\[paper\]](https://arxiv.org/abs/2402.05120)
@@ -153,6 +157,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 ## Science Team for Experiment Operations
+
+\[2025/07\] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2507.21035) [\[code\]](https://github.com/Liu-Hy/GenoMAS) [\[website\]](https://liu-hy.github.io/GenoMAS/)
 
 \[2024/01\] ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning. A. Ghafarollahi et al. [\[paper\]](https://arxiv.org/abs/2402.04268)
 
@@ -292,6 +298,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 # Multi-Agents Datasets and Benchmarks
+
+\[2025/06\] GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2406.15341) [\[code\]](https://github.com/Liu-Hy/GenoTEX) [\[website\]](https://liu-hy.github.io/GenoTEX/)
 
 \[2024/02\] LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments. Junzhe Chen et al. [\[paper\]](https://arxiv.org/abs/2402.16499)
 
