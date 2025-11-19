@@ -194,6 +194,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 # Multi-Agents for World Simulation
 ## Society
 
+\[2025/09\] Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations Yunzhe Wang et al.  [\[paper\]](https://aclanthology.org/2025.emnlp-main.1562/)
+
 \[2024/02\] Can Large Language Model Agents Simulate Human Trust Behaviors? Chengxing Xie et al.  [\[paper\]](https://arxiv.org/abs/2402.04559)
 
 \[2023/12\] Large Language Model Enhanced Multi-Agent Systems for 6G Communications. Feibo Jiang et al. [\[paper\]](https://arxiv.org/abs/2312.07850)
