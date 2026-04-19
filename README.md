@@ -158,7 +158,11 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Science Team for Experiment Operations
 
+\[2026/02\] AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing. Jianda Du et al. [\[paper\]](https://arxiv.org/abs/2602.17607)
+
 \[2025/07\] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2507.21035) [\[code\]](https://github.com/Liu-Hy/GenoMAS) [\[website\]](https://liu-hy.github.io/GenoMAS/)
+
+\[2025/04\] OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents. Raghav Thind et al. [\[paper\]](https://arxiv.org/abs/2504.16918)
 
 \[2024/01\] ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning. A. Ghafarollahi et al. [\[paper\]](https://arxiv.org/abs/2402.04268)
 
