@@ -95,6 +95,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Orchestration and Efficiency
 
+\[2026/04\] CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. Ao Qu et al. [\[paper\]](https://arxiv.org/abs/2604.01658) [\[code\]](https://github.com/Human-Agent-Society/CORAL)
+
 \[2025/10\] CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards. Xiangyuan Xue et al. [\[paper\]](https://arxiv.org/abs/2510.08529)
 
 \[2025/04\] Achilles Heel of Distributed Multi-Agent Systems. [\[paper\]](https://arxiv.org/abs/2504.07461)
