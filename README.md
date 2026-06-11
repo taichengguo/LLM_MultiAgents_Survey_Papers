@@ -307,6 +307,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Datasets and Benchmarks
 
+\[2026/06\] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. Youran Sun\*, Xingyu Ren\* et al. [\[paper\]](https://arxiv.org/abs/2606.08878) [\[code\]](https://github.com/WhymustIhaveaname/PerspectiveGap)
+
 \[2025/06\] GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2406.15341) [\[code\]](https://github.com/Liu-Hy/GenoTEX) [\[website\]](https://liu-hy.github.io/GenoTEX/)
 
 \[2024/02\] LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments. Junzhe Chen et al. [\[paper\]](https://arxiv.org/abs/2402.16499)
