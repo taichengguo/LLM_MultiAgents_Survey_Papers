@@ -200,7 +200,11 @@ Should you find value in our paper and this repository, we would be most gratefu
 # Multi-Agents for World Simulation
 ## Society
 
+\[2026/06\] PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2606.05697)
+
 \[2025/09\] Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations Yunzhe Wang et al.  [\[paper\]](https://aclanthology.org/2025.emnlp-main.1562/)
+
+\[2025/06\] CitySim: Modeling Urban Behaviors and City Dynamics with Large-Scale LLM-Driven Agent Simulation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2506.21805)
 
 \[2024/02\] Can Large Language Model Agents Simulate Human Trust Behaviors? Chengxing Xie et al.  [\[paper\]](https://arxiv.org/abs/2402.04559)
 
@@ -279,6 +283,12 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 ## Recommender System
+
+\[2026/01\] Beyond Offline A/B Testing: Context-Aware Agent Simulation for Recommender System Evaluation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2604.09549)
+
+\[2026/01\] AlignUSER: Human-Aligned LLM Agents via World Models for Recommender System Evaluation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2601.00930)
+
+\[2025/04\] SimUSER: Simulating User Behavior with Large Language Models for Recommender System Evaluation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2504.12722)
 
 \[2023/10\] On Generative Agents in Recommendation. An Zhang et al. [\[paper\]](https://arxiv.org/abs/2310.10108)
 
