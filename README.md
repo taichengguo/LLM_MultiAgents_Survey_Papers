@@ -160,6 +160,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Science Team for Experiment Operations
 
+\[2026/06\] Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy. Youran Sun et al. [\[paper\]](https://arxiv.org/abs/2606.24177) [\[code\]](https://github.com/AutoResearch-Factory/Agon)
+
 \[2026/02\] AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing. Jianda Du et al. [\[paper\]](https://arxiv.org/abs/2602.17607)
 
 \[2025/07\] GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2507.21035) [\[code\]](https://github.com/Liu-Hy/GenoMAS) [\[website\]](https://liu-hy.github.io/GenoMAS/)
