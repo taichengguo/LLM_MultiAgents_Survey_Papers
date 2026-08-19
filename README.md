@@ -202,6 +202,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 # Multi-Agents for World Simulation
 ## Society
 
+\[2026/07\] CityReal: Human-Aligned Urban Behavior and City Dynamics Simulation with Large-Scale LLM Agents. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2608.16897)
+
 \[2026/06\] PerceptUI: LLM Agents as Human-Aligned Synthetic Users for UI/UX Evaluation. Nicolas Bougie et al. [\[paper\]](https://arxiv.org/abs/2606.05697)
 
 \[2025/09\] Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations Yunzhe Wang et al.  [\[paper\]](https://aclanthology.org/2025.emnlp-main.1562/)
