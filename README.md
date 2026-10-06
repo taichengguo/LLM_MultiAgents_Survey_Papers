@@ -179,6 +179,10 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Science Debate
 
+\[2025/06\] Tiered Agentic Oversight: A Hierarchical Multi-Agent System for Healthcare Safety. Yubin Kim et al. [\[paper\]](https://arxiv.org/abs/2506.12482)
+
+\[2024/04\] MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making. Yubin Kim et al. [\[paper\]](https://arxiv.org/abs/2404.15155)
+
 \[2024/01\] Enhancing Diagnostic Accuracy through Multi-Agent Conversations: Using Large Language Models to Mitigate Cognitive Bias. Yu He Ke et al. [\[paper\]](https://arxiv.org/abs/2401.14589)
 
 \[2023/11\] MechAgents: Large language model multi-agent collaborations can solve mechanics problems, generate new data, and integrate knowledge. Bo Ni et al. [\[paper\]](https://arxiv.org/abs/2311.08166)
@@ -348,4 +352,3 @@ Thanks!
 Taicheng Guo
 - Email: tguo2@nd.edu
 - Twitter: https://twitter.com/taioooorange
-
