@@ -67,6 +67,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 # Multi-Agents Framework
+\[2025/09\] MALLM: Multi-Agent Large Language Models Framework. Jonas Becker et al. [\[paper\]](https://arxiv.org/abs/2509.11656) [\[code\]](https://github.com/Multi-Agent-LLMs/mallm)
+
 \[2024/03\] Are More LLM Calls All You Need? Towards Scaling Laws of Compound Inference Systems. Lingjiao Chen et al. [\[paper\]](https://arxiv.org/abs/2403.02419)
 
 \[2024/02\] Rethinking the Bounds of LLM Reasoning: Are Multi-Agent Discussions the Key?. Qineng Wang et al. [\[paper\]](https://arxiv.org/abs/2402.18272)
@@ -100,6 +102,10 @@ Should you find value in our paper and this repository, we would be most gratefu
 \[2025/10\] CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards. Xiangyuan Xue et al. [\[paper\]](https://arxiv.org/abs/2510.08529)
 
 \[2025/04\] Achilles Heel of Distributed Multi-Agent Systems. [\[paper\]](https://arxiv.org/abs/2504.07461)
+
+\[2025/02\] Voting or Consensus? Decision-Making in Multi-Agent Debate. Lars Benedikt Kaesberg et al. [\[paper\]](https://arxiv.org/abs/2502.19130) [\[code\]](https://github.com/lkaesberg/decision-protocols)
+
+\[2025/02\] Stay Focused: Problem Drift in Multi-Agent Debate. Jonas Becker et al. [\[paper\]](https://arxiv.org/abs/2502.19559)
 
 \[2024/02\] Language Agents as Optimizable Graphs. Mingchen Zhuge et al. [\[paper\]](https://arxiv.org/abs/2402.16823)
 
