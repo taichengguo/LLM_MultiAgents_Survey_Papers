@@ -148,6 +148,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 
 ## Embodied Agents
+\[2024/06\] VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies in Minecraft. Yubo Dong et al. [\[paper\]](https://arxiv.org/abs/2406.05720) [\[code\]](https://github.com/cnsdqd-dyb/VillagerAgent-Minecraft-multiagent-framework)
+
 \[2023/10\] Multi-Agent Consensus Seeking via Large Language Models. Huaben Chen et al.  [\[paper\]](https://arxiv.org/abs/2310.20151)
 
 \[2023/10\] Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models. Bangguo Yu et al. [\[paper\]](https://arxiv.org/abs/2310.07937)
