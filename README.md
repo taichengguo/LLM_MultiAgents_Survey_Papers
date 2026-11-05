@@ -337,6 +337,12 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 # Multi-Agents Datasets and Benchmarks
 
+\[2026/11\] Measuring AI Agents as Teammates with Collaborative Intelligence. Sean Wu et al. [\[paper\]](https://arxiv.org/abs/2611.02633) [\[code\]](https://github.com/zou-group/collaborative-intelligence)
+
+\[2026/10\] TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information. Chanwoo Park et al. [\[paper\]](https://arxiv.org/abs/2610.37571)
+
+\[2026/05\] TeamBench: Evaluating Agent Coordination under Enforced Role Separation. Yubin Kim et al. [\[paper\]](https://arxiv.org/abs/2605.07073) [\[code\]](https://github.com/ybkim95/TeamBench)
+
 \[2026/06\] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. Youran Sun\*, Xingyu Ren\* et al. [\[paper\]](https://arxiv.org/abs/2606.08878) [\[code\]](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
 \[2025/06\] GenoTEX: An LLM Agent Benchmark for Automated Gene Expression Data Analysis. Haoyang Liu et al. [\[paper\]](https://arxiv.org/abs/2406.15341) [\[code\]](https://github.com/Liu-Hy/GenoTEX) [\[website\]](https://liu-hy.github.io/GenoTEX/)
