@@ -174,6 +174,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 ## Science Team for Experiment Operations
 
+\[2026/08\] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment. Stephen Chung et al. [\[paper\]](https://arxiv.org/abs/2608.23691) [\[code\]](https://github.com/dualverse-ai/station)
+
 \[2026/08\] AutoSR: Automatic Symbolic Regression by Searching Research States. Kejia Zhang et al. [\[paper\]](https://arxiv.org/abs/2608.16876) [\[code\]](https://github.com/AutoResearch-Factory/AutoSR)
 
 \[2026/08\] AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search. Weicheng Ye et al. [\[paper\]](https://arxiv.org/abs/2608.11250) [\[code\]](https://github.com/AutoResearch-Factory/AgonAlpha)
