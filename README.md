@@ -349,6 +349,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2026/10\] TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information. Chanwoo Park et al. [\[paper\]](https://arxiv.org/abs/2610.37571)
 
+\[2026/10\] SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents. Youran Sun et al. [\[paper\]](https://arxiv.org/abs/2610.21082) [\[code\]](https://github.com/AutoResearch-Factory/SciPIvot)
+
 \[2026/05\] TeamBench: Evaluating Agent Coordination under Enforced Role Separation. Yubin Kim et al. [\[paper\]](https://arxiv.org/abs/2605.07073) [\[code\]](https://github.com/ybkim95/TeamBench)
 
 \[2026/06\] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting. Youran Sun\*, Xingyu Ren\* et al. [\[paper\]](https://arxiv.org/abs/2606.08878) [\[code\]](https://github.com/WhymustIhaveaname/PerspectiveGap)
