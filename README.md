@@ -101,6 +101,8 @@ Should you find value in our paper and this repository, we would be most gratefu
 
 \[2026/11\] SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization. Qile Jiang et al. [\[paper\]](https://arxiv.org/abs/2611.08483) [\[code\]](https://github.com/Qile-J/SwarmEvolve)
 
+\[2026/10\] MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation. Yuhan Sun et al. [\[paper\]](https://arxiv.org/abs/2610.23234)
+
 \[2026/05\] NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning. Haoran Lu et al. The First Conference on Statistics and Trustworthy AI for Cross (X)-Domain Acceleration (STAI-X 2026), Paper Award Honorable Mention. [\[paper\]](https://openreview.net/pdf?id=psCz7NClif) [\[arXiv\]](https://arxiv.org/abs/2605.16757) [\[code\]](https://github.com/haoranlustat/NeuroMAS)
 
 \[2026/04\] CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery. Ao Qu et al. [\[paper\]](https://arxiv.org/abs/2604.01658) [\[code\]](https://github.com/Human-Agent-Society/CORAL)
